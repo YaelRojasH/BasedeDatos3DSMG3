@@ -116,3 +116,74 @@ Una empresa se dedica a la venta de productos al por mayor, y necesita registrar
 ### Solución ejercicio 4
 
 ![Solución Ej4](../img/ER/Ejercicio4.png)
+
+### Ejercicio 5
+
+Una empresa necesita administrar la información de sus departamentos, empleados, proyectos y dependientes.
+
+> De los departamentos necesita almacenar:
+
+- Número del departamento
+- Nombre del departamento
+
+Además:
+
+- Un empleado administra cada departamento.
+- Se registra la fecha en que el empleado comenzó a administrarlo.
+- Un departamento puede tener varias ubicaciones.
+
+> De los proyectos necesita almacenar:
+
+- Número del proyecto
+- Nombre del proyecto
+- Ubicación del proyecto
+
+> De los empleados necesita almacenar:
+
+- Número de Seguro Social (SSN)
+- Nombre
+- Dirección
+- Salario
+- Sexo
+- Fecha de nacimiento
+
+Además:
+
+- Cada empleado pertenece a un departamento.
+- Puede trabajar en varios proyectos.
+- Se registra el número de horas trabajadas por semana en cada proyecto.
+- Cada empleado tiene un supervisor directo (otro empleado).
+
+> De los dependientes necesita almacenar:
+
+- Nombre
+- Sexo
+- Fecha de nacimiento
+- Parentesco con el empleado.
+
+---
+
+# Reglas del negocio
+
+1. Un departamento puede tener muchos empleados.
+2. Cada empleado pertenece a un solo departamento.
+3. Un departamento controla muchos proyectos.
+4. Cada proyecto es controlado por un solo departamento.
+5. Un empleado puede trabajar en muchos proyectos.
+6. Un proyecto puede tener muchos empleados trabajando en él.
+7. La relación **Trabaja_en** almacena las horas trabajadas por semana.
+8. Un empleado puede supervisar a muchos empleados.
+9. Cada empleado tiene como máximo un supervisor directo.
+10. Un departamento es administrado por un empleado.
+11. Un empleado puede administrar como máximo un departamento.
+12. La relación **Administra** almacena la fecha de inicio de la administración.
+13. Un departamento puede tener varias ubicaciones.
+14. Un empleado puede tener varios dependientes.
+15. Cada dependiente pertenece a un solo empleado.
+16. Un dependiente no existe sin un empleado.
+
+---
+
+# Solución
+
+![Solución Ej5](../img/ER/Ejercicio5.png)
