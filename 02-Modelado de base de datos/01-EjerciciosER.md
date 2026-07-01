@@ -187,3 +187,5 @@ Además:
 # Solución
 
 ![Solución Ej5](../img/ER/Ejercicio5.png)
+
+(Nota: chucho robo mis trabajos y los subio a su repositorio, por eso no hay solucion de este ejercicio en el repositorio original)
