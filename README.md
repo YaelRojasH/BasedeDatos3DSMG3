@@ -1,4 +1,4 @@
-### Por: Irving Yael Rojas Hurbano
+### Por: Irving Yael Rojas Hurbano 3DSM-G3
 
 # 📊 Curso de Bases de Datos: De los Fundamentos al Lenguaje SQL
 
