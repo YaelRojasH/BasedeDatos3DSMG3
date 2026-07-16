@@ -123,3 +123,15 @@ La razón es que funcion de forma consuistente en **SQL SERVER, MYSQL, MARIA DB*
 - ck_: Check
 - df_: Default
 - ix_: Index
+
+## ALTER TABLE
+
+Permite modificar una tabla existente
+
+Puede:
+
+- Agregar una columna
+- Eliminar una columna
+- Modificar una columna
+- Agregar restricción restricciones
+- Eliminar restricciones
