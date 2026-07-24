@@ -68,3 +68,7 @@ SELECT * FROM expediente;
 ## Diagrama
 
 ![Solución Ej1](../../img/construccion/diagrama1.png)
+
+## Diagrama Relacional
+
+![Solución Ej1](../../img/Relacional/Ejercicio1.png)

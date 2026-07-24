@@ -77,3 +77,7 @@ SELECT * FROM curso;
 ## Diagrama
 
 ![Solución Ej2](../../img/construccion/diagrama2.png)
+
+## Diagrama Relacional
+
+![Solución Ej2](../../img/Relacional/Ejercicio2.png)

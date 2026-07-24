@@ -156,3 +156,7 @@ SELECT * FROM works_on;
 ## Diagrama
 
 ![Solución Ej6](../../img/construccion/diagrama6.png)
+
+## Diagrama Relacional
+
+![Solución Ej6](../../img/Relacional/Ejercicio6.png)

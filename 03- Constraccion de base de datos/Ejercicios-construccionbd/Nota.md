@@ -1,0 +1,1 @@
+## Este es solo una nota, ya termine se supone que ya hice mis ejercicios y etc 
