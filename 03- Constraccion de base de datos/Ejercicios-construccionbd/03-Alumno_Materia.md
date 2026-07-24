@@ -78,3 +78,7 @@ SELECT * FROM inscribe;
 ## Diagrama
 
 ![Solución Ej3](../../img/construccion/diagrama3.png)
+
+## Diagrama Relacional
+
+![Solución Ej3](../../img/Relacional/Ejercicio3.png)

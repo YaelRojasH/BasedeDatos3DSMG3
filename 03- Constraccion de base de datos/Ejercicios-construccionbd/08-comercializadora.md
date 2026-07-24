@@ -235,3 +235,7 @@ CREATE TABLE detalle_pedido (
 ## Diagrama
 
 ![Solución Ej8](../../img/construccion/diagrama8.png)
+
+## Diagrama Relacional
+
+![Solución Ej8](../../img/Relacional/Ejercicio8.png)

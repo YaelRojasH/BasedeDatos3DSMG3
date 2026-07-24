@@ -252,3 +252,7 @@ SELECT * FROM telefono
 ## Diagrama
 
 ![Solución Ej9](../../img/construccion/diagrama9.png)
+
+## Diagrama Relacional
+
+![Solución Ej9](../../img/Relacional/Ejercicio9.png)

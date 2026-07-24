@@ -239,3 +239,7 @@ SELECT * FROM participa;
 ## Diagrama
 
 ![Solución Ej7](../../img/construccion/diagrama7.png)
+
+## Diagrama Relacional
+
+![Solución Ej7](../../img/Relacional/Ejercicio7.png)

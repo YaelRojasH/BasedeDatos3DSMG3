@@ -101,3 +101,8 @@ SELECT * FROM contiene;
 ## Diagrama
 
 ![Solución Ej4](../../img/construccion/diagrama4.png)
+
+
+## Diagrama Relacional
+
+![Solución Ej4](../../img/Relacional/Ejercicio4.png)
